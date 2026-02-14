@@ -1,0 +1,1 @@
+[print("I am learning Python") for i in range(0, 3)]

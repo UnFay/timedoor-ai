@@ -1,0 +1,8 @@
+1. A data structure is a kind of construct that allows us to store data in a certain way according to its use.
+In this meeting we learned about lists, tuples and dictionaries.
+
+2. An index is an value that points to the location of an item in a list, dictionary or tuple. It allows us to access specific items, add new items and sort their order.
+
+3. A list holds multiple values in number indexes. A tuple does this too, but the items cannot be modified after initialization. A dictionary uses string indexes instead of number indexes to refer to values.
+
+4. random.choice() returns a random item from a specified list, tuple or dictionary, while random.randint() returns a random integer number.
