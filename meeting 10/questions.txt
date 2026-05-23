@@ -1,0 +1,4 @@
+1. Separating data into groups according to similarities in features
+2. Quality data is data that is relevant, reliable, not redundant (does not have too many repeating items) and represents each category of data well.
+3. For us to understand the relationships between certain features and differences between data classes better
+4. Train data is the data that the AI will be trained off of. Test data should be kept separate from training data as a way to see if the finished model can correctly work with unseen data.
